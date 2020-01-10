@@ -11,6 +11,7 @@ Added shotty/shotty.py  to list ec2 instances
 
 `python3 shotty/shotty.py <command> <--project=PROJECT>`
 
-*command is   list, start,  or stop
+*command is   instances volumes snapshot
+*subcommand   depends on command
 *project is   tag for project and optional
 
